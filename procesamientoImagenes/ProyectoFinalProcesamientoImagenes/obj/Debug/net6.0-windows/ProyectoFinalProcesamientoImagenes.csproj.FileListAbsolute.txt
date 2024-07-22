@@ -1,0 +1,164 @@
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.exe
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.deps.json
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.runtimeconfig.json
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.pdb
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.AssemblyReference.cache
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form1.resources
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form2.resources
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Properties.Resources.resources
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.GenerateResource.cache
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.AssemblyInfo.cs
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\refint\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.pdb
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.genruntimeconfig.cache
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ref\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form3.resources
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.CopyComplete
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\humbe\source\repos\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.exe
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.deps.json
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.runtimeconfig.json
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.pdb
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.AssemblyReference.cache
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form1.resources
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form2.resources
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form3.resources
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Properties.Resources.resources
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.GenerateResource.cache
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.AssemblyInfoInputs.cache
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.AssemblyInfo.cs
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.CopyComplete
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\refint\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.pdb
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.genruntimeconfig.cache
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ref\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\Downloads\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form4.resources
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.exe
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.deps.json
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.runtimeconfig.json
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.pdb
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.AssemblyReference.cache
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form1.resources
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form2.resources
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form3.resources
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Form4.resources
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.Properties.Resources.resources
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.GenerateResource.cache
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.AssemblyInfoInputs.cache
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.AssemblyInfo.cs
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.CoreCompileInputs.cache
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.csproj.CopyComplete
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\refint\ProyectoFinalProcesamientoImagenes.dll
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.pdb
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ProyectoFinalProcesamientoImagenes.genruntimeconfig.cache
+C:\Users\humbe\OneDrive\Documents\UANL\Semestre 2023\Procesamiento de Imagenes\ProyectoFinalProcesamientoImagenes\ProyectoFinalProcesamientoImagenes\obj\Debug\net6.0-windows\ref\ProyectoFinalProcesamientoImagenes.dll
